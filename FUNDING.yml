@@ -1,0 +1,15 @@
+# Global funding configuration for all unisone repositories
+# This applies to all repos unless overridden by a repo-specific FUNDING.yml
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# GitHub Sponsors - recurring donations
+github: unisone
+
+# Buy Me a Coffee - one-time tips
+buy_me_a_coffee: unisone
+
+# Ko-fi - tips + memberships (0% platform fee)
+ko_fi: unisone
+
+# Patreon - subscription tiers
+patreon: unisone
